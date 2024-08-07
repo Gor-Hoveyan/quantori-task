@@ -2,7 +2,7 @@
 
 <h2>Installation and Running</h2>
 
-  Clone the repository: git clone https://github.com/Gor-Hoveyan/CryptoList
+  Clone the repository: git clone https://github.com/Gor-Hoveyan/CryptoList](https://github.com/Gor-Hoveyan/quantori-task/
   
   Navigate to the project directory
   
